@@ -60,11 +60,5 @@ export const DASHBOARD_SIDEBAR_BOTTOM_LINKS = [
 		label: 'Help & Support',
 		path: '/support',
 		icon: <HiOutlineQuestionMarkCircle />
-	},
-    {
-		key: 'Logout',
-		label: 'Logout',
-		path: '/Logout',
-		icon: <HiOutlineQuestionMarkCircle />
 	}
 ]
